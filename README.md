@@ -1,6 +1,8 @@
 # C-I-TASSER
 contact-based folding program, C-I-TASSER
 
+The benchmark dataset and pfam dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C-I-TASSER/
+
            INSTALLATION AND IMPLEMENTATION OF C-I-TASSER SUITE
    (Copyright 2017 by Zhang Lab, University of Michigan, All rights reserved)
                     (Version 1.0, 2020/10/10)
@@ -33,7 +35,13 @@ contact-based folding program, C-I-TASSER
    p) TM-SITE: A structure-based approach for ligand-binding site prediction
    q) S-SITE: A sequence-based approach for ligand-binding site prediction
    
-2. How to install the C-I-TASSER Suite?
+   
+   #######################################################
+   #                                                     #
+   #    2. How to install the C-I-TASSER Suite?          #
+   #                                                     #
+   #######################################################
+
 
    a) download the C-I-TASSER Suite 'C-I-TASSER-1.0.tar.bz2' from
       http://zhanglab.dcmb.med.umich.edu/C-I-TASSER/download
@@ -82,8 +90,12 @@ contact-based folding program, C-I-TASSER
       $jacdb    = "$libdir/uniref90/uniref90.fasta";
       $hmsdb    = "$libdir/metaclust/metaclust.fasta";
 
-     
-3. Bug report:
+   #######################################################
+   #                                                     #
+   #                3. Bug report:                       #
+   #                                                     #
+   #######################################################
+
 
    Please report and post bugs and suggestions at C-I-TASSER message board: 
    http://zhanglab.dcmb.med.umich.edu/forum
