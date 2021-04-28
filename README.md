@@ -5,6 +5,7 @@ The benchmark dataset and pfam dataset can be downloaded at https://zhanglab.dcm
 
            INSTALLATION AND IMPLEMENTATION OF C-I-TASSER SUITE
    (Copyright 2017 by Zhang Lab, University of Michigan, All rights reserved)
+   
                     (Version 1.0, 2020/10/10)
 
    #######################################################
