@@ -1,6 +1,8 @@
 # C-I-TASSER
 contact-based folding program, C-I-TASSER
 
+Please go to https://zhanglab.dcmb.med.umich.edu/C-I-TASSER/ download the newest version of C-I-TASSER suite, the program on Yang Zhang Lab offcial web site will be continously updated with bug fix!
+
 The benchmark dataset and pfam dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C-I-TASSER/
 
            INSTALLATION AND IMPLEMENTATION OF C-I-TASSER SUITE
